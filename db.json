@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, nobis suscipit! Soluta quibusdam nisi maiores illo maxime repellat! Inventore accusamus repellendus provident ducimus saepe nam amet tempora earum ad suscipit, quibusdam obcaecati expedita rem. Saepe, illo? In ipsum labore sed molestiae asperiores et atque harum rem cum ipsa, consequuntur velit, totam animi numquam quas iste eveniet facere odio aliquam beatae ullam sint! Blanditiis quibusdam inventore recusandae, et nostrum accusantium placeat id excepturi pariatur perferendis sunt iure repellendus odio deserunt animi. Iste perspiciatis atque ea iure officiis eligendi sit nam illo illum, vero praesentium magni? Ab officiis hic illum veritatis rem!",
+      "tags": [
+        "coding",
+        "webdev",
+        "blog"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "CSS Tips and Tricks",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, nobis suscipit! Soluta quibusdam nisi maiores illo maxime repellat! Inventore accusamus repellendus provident ducimus saepe nam amet tempora earum ad suscipit, quibusdam obcaecati expedita rem. Saepe, illo? In ipsum labore sed molestiae asperiores et atque harum rem cum ipsa, consequuntur velit, totam animi numquam quas iste eveniet facere odio aliquam beatae ullam sint! Blanditiis quibusdam inventore recusandae, et nostrum accusantium placeat id excepturi pariatur perferendis sunt iure repellendus odio deserunt animi. Iste perspiciatis atque ea iure officiis eligendi sit nam illo illum, vero praesentium magni? Ab officiis hic illum veritatis rem!",
+      "tags": [
+        "coding",
+        "tips",
+        "tricks",
+        "tutorials"
+      ]
+    },
+    {
+      "title": "Web Development Tutorial",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, nobis suscipit! Soluta quibusdam nisi maiores illo maxime repellat! Inventore accusamus repellendus provident ducimus saepe nam amet tempora earum ad suscipit, quibusdam obcaecati expedita rem. Saepe, illo? In ipsum labore sed molestiae asperiores et atque harum rem cum ipsa, consequuntur velit, totam animi numquam quas iste eveniet facere odio aliquam beatae ullam sint! Blanditiis quibusdam inventore recusandae, et nostrum accusantium placeat id excepturi pariatur pe",
+      "tags": [
+        "coding",
+        "webdev"
+      ],
+      "id": 3
+    }
+  ]
+}
